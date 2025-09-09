@@ -16,7 +16,6 @@ services:
         max_attempts: 10
   mysqldb:
     image: mysql:8.0
-    container_name: mysqldb_container
     networks:
       - docker-mysql
     environment:
