@@ -2,7 +2,7 @@ FROM openjdk:17
 
 LABEL authors="mounikapathipati"
 
-COPY target/crud_operations.jar /usr/app/crud_operations.jar
+COPY target/crudoperations-0.0.1-SNAPSHOT.jar /usr/app/crudoperations-0.0.1-SNAPSHOT.jar
 
 WORKDIR /usr/app/
 
