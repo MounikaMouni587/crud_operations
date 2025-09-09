@@ -6,4 +6,4 @@ COPY target/crudoperations-0.0.1-SNAPSHOT.jar /usr/app/crudoperations-0.0.1-SNAP
 
 WORKDIR /usr/app/
 
-ENTRYPOINT ["java", "-jar","crud_operations.jar"]
+ENTRYPOINT ["java", "-jar","crudoperations-0.0.1-SNAPSHOT.jar"]
