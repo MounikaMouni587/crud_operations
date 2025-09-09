@@ -1,0 +1,4 @@
+com/restfulcrud/crudoperations/repository/StudentRepository.class
+com/restfulcrud/crudoperations/controller/StudentController.class
+com/restfulcrud/crudoperations/CrudoperationsApplication.class
+com/restfulcrud/crudoperations/entity/Student.class
